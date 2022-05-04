@@ -1,1 +1,4 @@
-# learning-git-and-githup
+# learning-git-and-githup 
+###welcome 
+#hello world 
+##this is repo 
